@@ -1,0 +1,12 @@
+body {
+  background-color: #FFFFFF;
+}
+
+.google-map a {
+  clip-path: circle(2%);
+}
+
+a:focus {
+  border: 1px solid black;
+  clip-path: unset;
+}
